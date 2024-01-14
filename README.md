@@ -38,6 +38,6 @@
 
 
 <h2>App Screenshots </h2>
-<img src="weather1.png" alt="Weather Image" style="width: 200px;">
+<img src="weather1.png" alt="Weather Image" style="width: 200px;"> 
 <img src="weather2.png" alt="Weather Image" style="width: 200px;">
 
