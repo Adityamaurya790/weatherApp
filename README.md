@@ -1,6 +1,6 @@
 <h1>Weather App</h1>
 
-<p>This is a simple weather app that allows you to check the current weather conditions for a specific city.</p>
+<p>This is a simple weather app prototype that allows you to check the current weather conditions for a specific city.</p>
 
 <h2>Features</h2>
     <ul>
@@ -37,5 +37,6 @@
     <p>Feel free to contribute to this project by submitting issues or pull requests.</p>
 
 
-
-<script src="weatherApp.js"></script>
+<h2>App Screenshots </h2>
+<img src="weather1.png">
+<img src="weather2.png">
